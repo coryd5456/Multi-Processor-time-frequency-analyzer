@@ -88,7 +88,7 @@ serial_TX  #(250) txBlock (
 SFTransform transform (
     .clk(Q),
     .busy(busy),
-    .signal_read(Signal),
+    .signal_read(sample[8:1]),
     .result(checkSums)
   );
 
@@ -221,6 +221,12 @@ endgenerate
 
 
 //////////////////////AVR Interface//////////////////
+
+  wire [3:0] channel = 4'b0;
+  wire new_sample;
+  wire [9:0] sample;
+  wire [3:0] sample_channel;
+  
   avr_interface avr_interface (
     .clk(clk),
     .rst(rst),

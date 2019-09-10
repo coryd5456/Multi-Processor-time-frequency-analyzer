@@ -1,4 +1,4 @@
-module SumSRAM_5 #(parameter ADDR_WIDTH = 7,DATA_WIDTH = 8, DEPTH = 128)( 
+module SumSRAM_6 #(parameter ADDR_WIDTH = 7,DATA_WIDTH = 8, DEPTH = 128)( 
   input wire clk,
   input wire clkCounter,
   input wire [ADDR_WIDTH -1:0] i_addrC,

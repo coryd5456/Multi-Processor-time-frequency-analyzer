@@ -275,7 +275,7 @@ assign Signal[0][255] = 8'b01001001; assign Signal[1][255] = 8'b10001010; assign
     busy_counter <= busy_counter +1'b1;
     if (busy_counter == SIZE_b) begin
     addr <= addr + 1'b1;
-    signal_q <= Signal [2][addr];
+    signal_q <= Signal [0][addr];
     //signal_q <= addr;
     end 
   end

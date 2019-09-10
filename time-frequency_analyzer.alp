@@ -14,6 +14,7 @@
     <src>spi_slave.v</src>
     <src>serial_TX.v</src>
     <src>TransformROM.v</src>
+    <src>cclk_detector.v</src>
     <constraint>Tx.ucf</constraint>
     <constraint lib="true">mojo.ucf</constraint>
   </files>

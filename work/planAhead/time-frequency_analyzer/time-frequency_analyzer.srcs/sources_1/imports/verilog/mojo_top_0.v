@@ -38,7 +38,7 @@ reg [7:0] a = 8'b11101011;
 reg [7:0] b = 8'b11101011;
 wire [15:0] c;
 assign c = a*b;*/
-assign led = 8'hFF;
+assign led = Signal_out;
 
 //////////////////////////////
 
@@ -47,7 +47,7 @@ assign led = 8'hFF;
 wire block = 1'b0;
 wire busy;
 wire [7:0] data;
-wire [7:0] Signal;
+wire [7:0] Signal_out;
 wire new_data = 1'b1;
 wire Q;
 
@@ -63,7 +63,7 @@ timing_1 one (
 
 Signal_ROM_2 sine (
   .clk(busy),
-  .Signal_out(Signal)
+  .Signal_out(Signal_out)
 );
 
 
@@ -88,7 +88,7 @@ serial_TX_3  #(250) txBlock (
 SFTransform_4 transform (
     .clk(Q),
     .busy(busy),
-    .signal_read(Signal),
+    .signal_read(sample[8:1]),
     .result(checkSums)
   );
 
@@ -217,4 +217,39 @@ generate
   end
 endgenerate
 */
+
+
+
+//////////////////////AVR Interface//////////////////
+
+  wire [3:0] channel = 4'b0;
+  wire new_sample;
+  wire [9:0] sample;
+  wire [3:0] sample_channel;
+  
+  avr_interface_5 avr_interface (
+    .clk(clk),
+    .rst(rst),
+    .cclk(cclk),
+    .spi_miso(spi_miso),
+    .spi_mosi(spi_mosi),
+    .spi_sck(spi_sck),
+    .spi_ss(spi_ss),
+    .spi_channel(spi_channel),
+    .tx(avr_rx),
+    .rx(avr_tx),
+    .channel(channel),
+    .new_sample(new_sample),
+    .sample(sample),
+    .sample_channel(sample_channel),
+    .tx_data(8'h00),
+    .new_tx_data(1'b0),
+    .tx_busy(),
+    .tx_block(avr_rx_busy),
+    .rx_data(),
+    .new_rx_data()
+  );
+
+
+
 endmodule

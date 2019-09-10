@@ -64,7 +64,7 @@ genvar i;
 generate
   for (i = 0; i < WINDOW_WIDTH; i = i + 1  ) begin : SSumSRAM 
     // if unconnected message pops up, then these sizes aren't right
-    SumSRAM_5 #(7,NBITS,SIZE)S_SRAM(
+    SumSRAM_6 #(7,NBITS,SIZE)S_SRAM(
       .clk(clk),
       .clkCounter(busy),
       .i_addrC(counter),
@@ -77,7 +77,7 @@ generate
   end
   for (i = 0; i < WINDOW_WIDTH; i = i + 1  ) begin : CSumSRAM
     
-    SumSRAM_5 #(7,NBITS,SIZE) C_SRAM(
+    SumSRAM_6 #(7,NBITS,SIZE) C_SRAM(
       .clk(clk),
       .clkCounter(busy),
       .i_addrC(counter),

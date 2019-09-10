@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.runs/impl_1/mojo_top_0_routed.ncd
+OUTFILE=/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.runs/impl_1/mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.runs/impl_1
+LICENSE=WebPack
+USER_INFO=211755427_0_0_509

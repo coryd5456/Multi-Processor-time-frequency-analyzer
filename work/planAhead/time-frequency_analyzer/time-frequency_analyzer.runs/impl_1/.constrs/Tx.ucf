@@ -1,0 +1,5 @@
+NET "TX" LOC = P137;
+NET "TX" IOSTANDARD = LVTTL;
+NET "check" LOC = P1;
+NET "check" IOSTANDARD = LVTTL;
+

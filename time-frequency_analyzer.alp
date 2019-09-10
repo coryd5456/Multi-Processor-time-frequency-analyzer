@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="time-frequency_analyzer" board="Mojo" language="Verilog" version="2">
+  <files>
+    <src>timeing.v</src>
+    <src>Signal_ROM.v</src>
+    <src>serial_rx.v</src>
+    <src>serial_tx.v</src>
+    <src>SFTransform_v2.v</src>
+    <src>avr_interface.v</src>
+    <src>SFTransform.v</src>
+    <src>SFTransform_v1.v</src>
+    <src>SumSRAM.v</src>
+    <src top="true">mojo_top.v</src>
+    <src>spi_slave.v</src>
+    <src>serial_TX.v</src>
+    <src>TransformROM.v</src>
+    <constraint>Tx.ucf</constraint>
+    <constraint lib="true">mojo.ucf</constraint>
+  </files>
+</project>

@@ -24,9 +24,10 @@ reg [4:0] GaborW [0:WINDOW_WIDTH - 1];
 reg [SIZE_C:0] counter = INIT;//7'b0  <========= update here
 reg [7:0] addr2 = 8'b0;
 reg [3:0] addr1 = 4'b0;
-//wire [7:0] data;
+reg [7:0] data = 8'b0;
 //assign data = signal_read;// could be the cause of LUTs
-integer l,m;
+integer l;
+
 reg [NBITS -1:0] sumS [0:WINDOW_WIDTH - 1];
 reg [NBITS -1:0] sumC [0:WINDOW_WIDTH - 1];
 reg [18:0] sumSS [0:WINDOW_WIDTH - 1];
@@ -108,7 +109,7 @@ always @(negedge busy) begin // neg edge of busy is that we finished transmittin
   ////////Transmit Code/////////
   //Third State: Transmit data for 128 Bytes of data
 
-  result <= ((SSumResult[addr1-7]*SSumResult[addr1-7] + CSumResult[addr1-7]*CSumResult[addr1-7])); 
+  result <= ((SSumResult[addr1-4'b0111]*SSumResult[addr1-4'b0111] + CSumResult[addr1-4'b0111]*CSumResult[addr1-4'b0111])); 
 
   // always at negedge of busy I want to load in the next transmit bit.
   // ^^^^^^^^^^^^ this line is written correctly for grabbing the address of sum and the 8 bits of that word in that address. 
@@ -125,20 +126,22 @@ always @(posedge clk) begin
    //ZERO STATE: Set idle waitig for transmit to finish. 
    3'b000: begin
             i_write <= 1'b0; // 0 means read
-            if (counter == UPDATE) begin //7'b1111111 <========= update here
+            if (counter == UPDATE && busy == 1'b0) begin //7'b1111111 <========= update here
               state <= 3'b001;
             end
          end
   //FIRST State: Erase previous transmitted row
   3'b001: begin
+    data <= signal_read;
     i_write <= 1'b1; // 1 means write
     loop <= loop + 1'b1;
     //for (m = 0; m < 4; m = m +1 ) begin 
 
-       i_dataSW[addr1-7] <= 8'b0; //32'b0 
-       i_dataCW[addr1-7] <= 8'b0; //32'b0
+       i_dataSW[addr1-4'b0111] <= 12'b0; //32'b0 
+       i_dataCW[addr1-4'b0111] <= 12'b0; //32'b0
     //end
     if (loop == 7'b1111111) begin
+	 loop <= 7'b0;
     state <= 3'b010;
     end
   end
@@ -148,11 +151,11 @@ always @(posedge clk) begin
   3'b010: begin
     //data <= signal_read;// Grab Data point
     
-    loop <= loop + 1'b1;
-     for (l = 0; l < 7 ; l = l+1) begin : time_shift // GaborW[(addr1 +7 - l)/* shifted by l*/]
+    
+     for (l = 0; l < 8 ; l = l+1) begin : time_shift // GaborW[(addr1 +7 - l)/* shifted by l*/]
         //for (m = 0; m < 4 ; m = m + 1) begin : frequency  //(Sine[(addr2*m)&8'hFF /* finds addres of sine frequency m*/])  ) 
-            sumSS [l] <=  (signal_read *GaborW[(addr1 +7 - l)/* shifted by l*/]*(Sine[((addr2 +8'h7F)*loop)&8'hFF /* finds addres of sine frequency m*/] ));    
-            sumCC [l] <=  (signal_read *GaborW[(addr1 +7 - l)/* shifted by l*/]*(Sine[((addr2+8'h1F)*loop)&8'hFF /* finds addres of sine frequency m*/] ));
+            sumSS [l] <=  (data *GaborW[(addr1 +7 -l)&4'hF/* shifted by l*/]*(Sine[((addr2 *loop)+ 8'h7F)&8'hFF /* finds addres of sine frequency m*/] ));    
+            sumCC [l] <=  (data *GaborW[(addr1 +7 -l)&4'hF/* shifted by l*/]*(Sine[((addr2*loop )+ 8'h1F)&8'hFF/* finds addres of sine frequency m*/] ));
          //end //loop is my new m
       end
     state <= 3'b011;  
@@ -161,12 +164,12 @@ always @(posedge clk) begin
     
   3'b011: begin
     //data <= signal_read;// Grab Data point
-    
-    loop <= loop + 1'b1;
+    i_write <= 1'b0;
+ 
      for (l = 8; l < WINDOW_WIDTH ; l = l+1) begin : time_shift7 // GaborW[(addr1 +7 - l)/* shifted by l*/]
         //for (m = 0; m < 4 ; m = m + 1) begin : frequency  //(Sine[(addr2*m)&8'hFF /* finds addres of sine frequency m*/])  ) 
-            sumSS [l] <=  (signal_read *GaborW[(addr1 +7 - l)/* shifted by l*/]*(Sine[((addr2 +8'h7F)*loop)&8'hFF /* finds addres of sine frequency m*/] ));    
-            sumCC [l] <=  (signal_read *GaborW[(addr1 +7 - l)/* shifted by l*/]*(Sine[((addr2+8'h1F)*loop)&8'hFF /* finds addres of sine frequency m*/] ));
+            sumSS [l] <=  (data *GaborW[(addr1 +7 -l)&4'hF/* shifted by l*/]*(Sine[((addr2 *loop)+ 8'h7F)&8'hFF /* finds addres of sine frequency m*/] ));    
+            sumCC [l] <=  (data *GaborW[(addr1 +7 -l)&4'hF/* shifted by l*/]*(Sine[((addr2*loop )+ 8'h1F)&8'hFF /* finds addres of sine frequency m*/] ));
          //end //loop is my new m
       end
     state <= 3'b100;  
@@ -175,7 +178,7 @@ always @(posedge clk) begin
   
   3'b100: begin
     //data <= signal_read;// Grab Data point
-    i_write <= 1'b0; // 0 means read
+    i_write <= 1'b1; // 0 means read
  
      for (l = 0; l < WINDOW_WIDTH ; l = l+1) begin : time_shift1 // GaborW[(addr1 +7 - l)/* shifted by l*/]
         //for (m = 0; m < 4 ; m = m + 1) begin : frequency  //(Sine[(addr2*m)&8'hFF /* finds addres of sine frequency m*/])  ) 
@@ -191,6 +194,7 @@ always @(posedge clk) begin
   end
   
     3'b101: begin
+	 loop <= loop + 1'b1;
     //data <= signal_read;// Grab Data point
     i_write <= 1'b1; // 1 means write
      for (l = 0; l < WINDOW_WIDTH ; l = l+1) begin : time_shift2 // GaborW[(addr1 +7 - l)/* shifted by l*/]
@@ -199,11 +203,17 @@ always @(posedge clk) begin
       end
     if (loop == 7'b1111111) begin
     //loop <= 5'b0;
-      state <= 3'b000;  
+      state <= 3'b110;  
+		loop <= 7'b0;
     end else begin
       state <= 3'b010;
     end
   end
+	3'b110: begin //idle state #2
+		if(counter == 7'b0) begin
+			state <= 3'b000;
+		end
+	end
 endcase
    
  end  
@@ -235,6 +245,10 @@ endcase
     //for (m = 0; m < SIZE ; m = m+1) begin 
           sumS[l] <= 12'b0;
           sumC[l] <= 12'b0;
+			 sumSS[l] <= 19'b0;
+			 sumCC[l] <= 19'b0;
+			 i_dataSW[l] <= 12'b0;
+			 i_dataCW[l] <= 12'b0;
     //end
   end 
   

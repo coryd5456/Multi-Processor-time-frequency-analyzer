@@ -10,11 +10,11 @@
     <src>SFTransform.v</src>
     <src>SFTransform_v1.v</src>
     <src>SumSRAM.v</src>
+    <src>cclk_detector.v</src>
     <src top="true">mojo_top.v</src>
     <src>spi_slave.v</src>
     <src>serial_TX.v</src>
     <src>TransformROM.v</src>
-    <src>cclk_detector.v</src>
     <constraint>Tx.ucf</constraint>
     <constraint lib="true">mojo.ucf</constraint>
   </files>

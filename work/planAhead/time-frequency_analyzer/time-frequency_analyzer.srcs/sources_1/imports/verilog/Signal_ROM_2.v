@@ -4,9 +4,9 @@ module Signal_ROM_2 (
     output [7:0] Signal_out
   );
   localparam SIZE_b = 7'b1111110;//7'b1111110 <========= update here
-  reg [7:0] signal_q;
+  reg [7:0] signal_q = 8'b0;
   assign Signal_out = signal_q;
-  reg [7:0]addr;
+  reg [7:0] addr = 8'b0;
   reg [6:0] busy_counter = 7'b0;//7 bits
   reg [7:0] Signal [0:2][0:255];
   /*

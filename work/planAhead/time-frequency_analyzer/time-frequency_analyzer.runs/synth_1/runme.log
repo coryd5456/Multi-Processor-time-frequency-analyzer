@@ -48,20 +48,6 @@ Elaborating module <Signal_ROM_2>.
 Elaborating module <serial_TX_3(CLK_PER_BIT=250)>.
 
 Elaborating module <SFTransform_4>.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 371: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 372: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 373: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 374: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 375: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 376: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 377: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 378: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 379: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 380: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 381: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 382: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 383: Result of 32-bit expression is truncated to fit in 6-bit target.
-WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 384: Result of 32-bit expression is truncated to fit in 6-bit target.
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 385: Result of 32-bit expression is truncated to fit in 6-bit target.
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 386: Result of 32-bit expression is truncated to fit in 6-bit target.
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 387: Result of 32-bit expression is truncated to fit in 6-bit target.
@@ -173,10 +159,22 @@ WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyze
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 493: Result of 32-bit expression is truncated to fit in 6-bit target.
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 494: Result of 32-bit expression is truncated to fit in 6-bit target.
 WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 495: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 496: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 497: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 498: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 499: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 500: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 501: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 502: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 503: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 504: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 505: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 506: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 507: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 508: Result of 32-bit expression is truncated to fit in 6-bit target.
+WARNING:HDLCompiler:413 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 509: Result of 32-bit expression is truncated to fit in 6-bit target.
 
 Elaborating module <SumSRAM_6(ADDR_WIDTH=7,DATA_WIDTH=12,DEPTH=128)>.
-WARNING:HDLCompiler:634 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 32: Net <sumSS[7][18]> does not have a driver.
-WARNING:HDLCompiler:634 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v" Line 33: Net <sumCC[7][18]> does not have a driver.
 
 Elaborating module <avr_interface_5>.
 
@@ -187,8 +185,9 @@ Elaborating module <spi_slave_8>.
 Elaborating module <serial_rx_9(CLK_PER_BIT=100)>.
 
 Elaborating module <serial_tx_10(CLK_PER_BIT=100)>.
-WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" Line 242: Assignment to new_sample ignored, since the identifier is never used
-WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" Line 244: Assignment to sample_channel ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" Line 243: Assignment to new_sample ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" Line 244: Assignment to sample ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" Line 245: Assignment to sample_channel ignored, since the identifier is never used
 
 =========================================================================
 *                           HDL Synthesis                               *
@@ -196,11 +195,12 @@ WARNING:HDLCompiler:1127 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyz
 
 Synthesizing Unit <mojo_top_0>.
     Related source file is "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v".
-INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 230: Output port <sample_channel> of the instance <avr_interface> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 230: Output port <rx_data> of the instance <avr_interface> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 230: Output port <new_sample> of the instance <avr_interface> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 230: Output port <tx_busy> of the instance <avr_interface> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 230: Output port <new_rx_data> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <sample> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <sample_channel> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <rx_data> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <new_sample> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <tx_busy> of the instance <avr_interface> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/mojo_top_0.v" line 231: Output port <new_rx_data> of the instance <avr_interface> is unconnected or connected to loadless signal.
     Summary:
 	no macro.
 Unit <mojo_top_0> synthesized.
@@ -267,21 +267,19 @@ Unit <serial_TX_3> synthesized.
 
 Synthesizing Unit <SFTransform_4>.
     Related source file is "/home/cory/alchitry-labs-1.0.8/time-frequency_analyzer/work/planAhead/time-frequency_analyzer/time-frequency_analyzer.srcs/sources_1/imports/verilog/SFTransform_4.v".
-WARNING:Xst:653 - Signal <sumSS<7><18:12>> is used but never assigned. This sourceless signal will be automatically connected to value GND.
-WARNING:Xst:653 - Signal <sumCC<7><18:12>> is used but never assigned. This sourceless signal will be automatically connected to value GND.
 WARNING:Xst:2999 - Signal 'Sine', unconnected in block 'SFTransform_4', is tied to its initial value.
 WARNING:Xst:2999 - Signal 'GaborW', unconnected in block 'SFTransform_4', is tied to its initial value.
     Found 256x6-bit dual-port Read Only RAM <Mram_Sine> for signal <Sine>.
     Found 8-bit register for signal <addr2>.
     Found 4-bit register for signal <addr1>.
     Found 24-bit register for signal <result>.
-    Found 1-bit register for signal <i_write>.
-    Found 192-bit register for signal <n0690[191:0]>.
-    Found 192-bit register for signal <n0723[191:0]>.
     Found 3-bit register for signal <state>.
-    Found 192-bit register for signal <n0686[191:0]>.
-    Found 192-bit register for signal <n0687[191:0]>.
     Found 7-bit register for signal <loop>.
+    Found 1-bit register for signal <i_write>.
+    Found 192-bit register for signal <n0894[191:0]>.
+    Found 192-bit register for signal <n0927[191:0]>.
+    Found 192-bit register for signal <n0890[191:0]>.
+    Found 192-bit register for signal <n0891[191:0]>.
     Found 1-bit register for signal <sumSS<0><18>>.
     Found 1-bit register for signal <sumSS<0><17>>.
     Found 1-bit register for signal <sumSS<0><16>>.
@@ -331,6 +329,13 @@ WARNING:Xst:2999 - Signal 'GaborW', unconnected in block 'SFTransform_4', is tie
     Found 1-bit register for signal <sumSS<6><14>>.
     Found 1-bit register for signal <sumSS<6><13>>.
     Found 1-bit register for signal <sumSS<6><12>>.
+    Found 1-bit register for signal <sumSS<7><18>>.
+    Found 1-bit register for signal <sumSS<7><17>>.
+    Found 1-bit register for signal <sumSS<7><16>>.
+    Found 1-bit register for signal <sumSS<7><15>>.
+    Found 1-bit register for signal <sumSS<7><14>>.
+    Found 1-bit register for signal <sumSS<7><13>>.
+    Found 1-bit register for signal <sumSS<7><12>>.
     Found 1-bit register for signal <sumSS<8><18>>.
     Found 1-bit register for signal <sumSS<8><17>>.
     Found 1-bit register for signal <sumSS<8><16>>.
@@ -436,6 +441,13 @@ WARNING:Xst:2999 - Signal 'GaborW', unconnected in block 'SFTransform_4', is tie
     Found 1-bit register for signal <sumCC<6><14>>.
     Found 1-bit register for signal <sumCC<6><13>>.
     Found 1-bit register for signal <sumCC<6><12>>.
+    Found 1-bit register for signal <sumCC<7><18>>.
+    Found 1-bit register for signal <sumCC<7><17>>.
+    Found 1-bit register for signal <sumCC<7><16>>.
+    Found 1-bit register for signal <sumCC<7><15>>.
+    Found 1-bit register for signal <sumCC<7><14>>.
+    Found 1-bit register for signal <sumCC<7><13>>.
+    Found 1-bit register for signal <sumCC<7><12>>.
     Found 1-bit register for signal <sumCC<8><18>>.
     Found 1-bit register for signal <sumCC<8><17>>.
     Found 1-bit register for signal <sumCC<8><16>>.
@@ -492,130 +504,134 @@ WARNING:Xst:2999 - Signal 'GaborW', unconnected in block 'SFTransform_4', is tie
     Found 1-bit register for signal <sumCC<15><14>>.
     Found 1-bit register for signal <sumCC<15><13>>.
     Found 1-bit register for signal <sumCC<15><12>>.
+    Found 8-bit register for signal <data>.
     Found 7-bit register for signal <counter>.
     Found finite state machine <FSM_1> for signal <state>.
     -----------------------------------------------------------------------
-    | States             | 6                                              |
-    | Transitions        | 9                                              |
-    | Inputs             | 2                                              |
+    | States             | 7                                              |
+    | Transitions        | 12                                             |
+    | Inputs             | 4                                              |
     | Outputs            | 4                                              |
     | Clock              | clk (rising_edge)                              |
     | Power Up State     | 000                                            |
     | Encoding           | auto                                           |
     | Implementation     | LUT                                            |
     -----------------------------------------------------------------------
-    Found 5-bit subtractor for signal <n0761[4:0]> created at line 111.
-    Found 7-bit adder for signal <counter[6]_GND_11_o_add_1_OUT> created at line 97.
-    Found 8-bit adder for signal <addr2[7]_GND_11_o_add_3_OUT> created at line 101.
-    Found 4-bit adder for signal <addr1[3]_GND_11_o_add_4_OUT> created at line 105.
-    Found 24-bit adder for signal <GND_11_o_GND_11_o_add_17_OUT> created at line 111.
-    Found 5-bit adder for signal <n1081> created at line 154.
-    Found 8-bit adder for signal <addr2[7]_GND_11_o_add_71_OUT> created at line 154.
-    Found 8-bit adder for signal <addr2[7]_GND_11_o_add_80_OUT> created at line 155.
-    Found 7-bit adder for signal <loop[6]_GND_11_o_add_193_OUT> created at line 165.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[0][10]_add_338_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[0][10]_add_339_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[1][10]_add_340_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[1][10]_add_341_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[2][10]_add_342_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[2][10]_add_343_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[3][10]_add_344_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[3][10]_add_345_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[4][10]_add_346_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[4][10]_add_347_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[5][10]_add_348_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[5][10]_add_349_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[6][10]_add_350_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[6][10]_add_351_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[8][10]_add_354_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[8][10]_add_355_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[9][10]_add_356_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[9][10]_add_357_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[10][10]_add_358_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[10][10]_add_359_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[11][10]_add_360_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[11][10]_add_361_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[12][10]_add_362_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[12][10]_add_363_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[13][10]_add_364_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[13][10]_add_365_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[14][10]_add_366_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[14][10]_add_367_OUT> created at line 183.
-    Found 12-bit adder for signal <GND_11_o_o_dataSR[15][10]_add_368_OUT> created at line 182.
-    Found 12-bit adder for signal <GND_11_o_o_dataCR[15][10]_add_369_OUT> created at line 183.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_87_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_105_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_123_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_141_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_159_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_177_OUT<3:0>> created at line 154.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_196_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_214_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_232_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_250_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_268_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_286_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_304_OUT<3:0>> created at line 168.
-    Found 4-bit subtractor for signal <GND_11_o_GND_11_o_sub_322_OUT<3:0>> created at line 168.
-    Found 12x12-bit multiplier for signal <n1077> created at line 111.
-    Found 12x12-bit multiplier for signal <n1078> created at line 111.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_70_OUT> created at line 154.
-    Found 8x7-bit multiplier for signal <n0807> created at line 154.
-    Found 13x6-bit multiplier for signal <n0810> created at line 154.
-    Found 8x7-bit multiplier for signal <n0814> created at line 155.
-    Found 13x6-bit multiplier for signal <n0817> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_88_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0822> created at line 154.
-    Found 13x6-bit multiplier for signal <n0826> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_106_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0831> created at line 154.
-    Found 13x6-bit multiplier for signal <n0835> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_124_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0840> created at line 154.
-    Found 13x6-bit multiplier for signal <n0844> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_142_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0849> created at line 154.
-    Found 13x6-bit multiplier for signal <n0853> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_160_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0858> created at line 154.
-    Found 13x6-bit multiplier for signal <n0862> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_178_OUT> created at line 154.
-    Found 13x6-bit multiplier for signal <n0867> created at line 154.
-    Found 13x6-bit multiplier for signal <n0871> created at line 155.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_197_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0877> created at line 168.
-    Found 13x6-bit multiplier for signal <n0881> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_215_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0886> created at line 168.
-    Found 13x6-bit multiplier for signal <n0890> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_233_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0895> created at line 168.
-    Found 13x6-bit multiplier for signal <n0899> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_251_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0904> created at line 168.
-    Found 13x6-bit multiplier for signal <n0908> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_269_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0913> created at line 168.
-    Found 13x6-bit multiplier for signal <n0917> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_287_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0922> created at line 168.
-    Found 13x6-bit multiplier for signal <n0926> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_305_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0931> created at line 168.
-    Found 13x6-bit multiplier for signal <n0935> created at line 169.
-    Found 8x5-bit multiplier for signal <signal_read[7]_GND_11_o_MuLt_323_OUT> created at line 168.
-    Found 13x6-bit multiplier for signal <n0940> created at line 168.
-    Found 13x6-bit multiplier for signal <n0944> created at line 169.
+    Found 4-bit subtractor for signal <addr1[3]_GND_11_o_sub_8_OUT> created at line 112.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_88_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_108_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_128_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_148_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_168_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_188_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_208_OUT> created at line 157.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_228_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_248_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_268_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_288_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_308_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_328_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_348_OUT> created at line 171.
+    Found 6-bit subtractor for signal <GND_11_o_GND_11_o_sub_368_OUT> created at line 171.
+    Found 7-bit adder for signal <counter[6]_GND_11_o_add_1_OUT> created at line 98.
+    Found 8-bit adder for signal <addr2[7]_GND_11_o_add_3_OUT> created at line 102.
+    Found 4-bit adder for signal <addr1[3]_GND_11_o_add_4_OUT> created at line 106.
+    Found 24-bit adder for signal <addr1[3]_addr1[3]_add_17_OUT> created at line 112.
+    Found 5-bit adder for signal <n1345[4:0]> created at line 171.
+    Found 8-bit adder for signal <addr2[7]_PWR_5_o_and_233_OUT> created at line 171.
+    Found 8-bit adder for signal <addr2[7]_PWR_5_o_and_243_OUT> created at line 172.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[0][10]_add_386_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[0][10]_add_387_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[1][10]_add_388_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[1][10]_add_389_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[2][10]_add_390_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[2][10]_add_391_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[3][10]_add_392_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[3][10]_add_393_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[4][10]_add_394_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[4][10]_add_395_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[5][10]_add_396_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[5][10]_add_397_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[6][10]_add_398_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[6][10]_add_399_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[7][10]_add_400_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[7][10]_add_401_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[8][10]_add_402_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[8][10]_add_403_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[9][10]_add_404_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[9][10]_add_405_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[10][10]_add_406_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[10][10]_add_407_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[11][10]_add_408_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[11][10]_add_409_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[12][10]_add_410_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[12][10]_add_411_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[13][10]_add_412_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[13][10]_add_413_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[14][10]_add_414_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[14][10]_add_415_OUT> created at line 186.
+    Found 12-bit adder for signal <GND_11_o_o_dataSR[15][10]_add_416_OUT> created at line 185.
+    Found 12-bit adder for signal <GND_11_o_o_dataCR[15][10]_add_417_OUT> created at line 186.
+    Found 7-bit adder for signal <loop[6]_GND_11_o_add_418_OUT> created at line 197.
+    Found 12x12-bit multiplier for signal <n1341> created at line 112.
+    Found 12x12-bit multiplier for signal <n1342> created at line 112.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_70_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_75_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_85_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_90_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_95_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_105_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_110_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_115_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_125_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_130_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_135_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_145_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_150_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_155_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_165_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_170_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_175_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_185_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_190_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_195_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_205_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_210_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_215_OUT> created at line 157.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_225_OUT> created at line 158.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_230_OUT> created at line 171.
+    Found 8x7-bit multiplier for signal <n1091> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_235_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_245_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_250_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_255_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_265_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_270_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_275_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_285_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_290_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_295_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_305_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_310_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_315_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_325_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_330_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_335_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_345_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_350_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_355_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_365_OUT> created at line 172.
+    Found 8x5-bit multiplier for signal <data[7]_GND_11_o_MuLt_370_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_375_OUT> created at line 171.
+    Found 13x6-bit multiplier for signal <data[7]_addr2[7]_MuLt_385_OUT> created at line 172.
     Found 16x5-bit dual-port Read Only RAM <Mram_GaborW> for signal <GaborW>.
-    Found 12-bit 16-to-1 multiplexer for signal <GND_11_o_SSumResult[15][11]_wide_mux_8_OUT> created at line 111.
-    Found 12-bit 16-to-1 multiplexer for signal <GND_11_o_CSumResult[15][11]_wide_mux_13_OUT> created at line 111.
-    Found 32-bit comparator lessequal for signal <n0018> created at line 138
+    Found 12-bit 16-to-1 multiplexer for signal <addr1[3]_SSumResult[15][11]_wide_mux_8_OUT> created at line 112.
+    Found 12-bit 16-to-1 multiplexer for signal <addr1[3]_CSumResult[15][11]_wide_mux_13_OUT> created at line 112.
     Summary:
 	inferred   9 RAM(s).
-	inferred  49 Multiplier(s).
-	inferred  53 Adder/Subtractor(s).
-	inferred 1029 D-type flip-flop(s).
-	inferred   1 Comparator(s).
+	inferred  51 Multiplier(s).
+	inferred  56 Adder/Subtractor(s).
+	inferred 1051 D-type flip-flop(s).
 	inferred  34 Multiplexer(s).
 	inferred   1 Finite State Machine(s).
 Unit <SFTransform_4> synthesized.
@@ -754,28 +770,27 @@ HDL Synthesis Report
 Macro Statistics
 # RAMs                                                 : 42
  128x12-bit dual-port RAM                              : 32
- 16x5-bit dual-port Read Only RAM                      : 7
- 16x5-bit single-port Read Only RAM                    : 1
+ 16x5-bit dual-port Read Only RAM                      : 8
  256x6-bit dual-port Read Only RAM                     : 1
  256x8-bit single-port Read Only RAM                   : 1
-# Multipliers                                          : 49
+# Multipliers                                          : 51
  12x12-bit multiplier                                  : 2
- 13x6-bit multiplier                                   : 30
- 8x5-bit multiplier                                    : 15
- 8x7-bit multiplier                                    : 2
-# Adders/Subtractors                                   : 62
+ 13x6-bit multiplier                                   : 32
+ 8x5-bit multiplier                                    : 16
+ 8x7-bit multiplier                                    : 1
+# Adders/Subtractors                                   : 65
  10-bit adder                                          : 1
- 12-bit adder                                          : 30
+ 12-bit adder                                          : 32
  24-bit adder                                          : 1
  3-bit adder                                           : 3
  4-bit adder                                           : 1
- 4-bit subtractor                                      : 14
+ 4-bit subtractor                                      : 1
  5-bit adder                                           : 2
- 5-bit subtractor                                      : 1
+ 6-bit subtractor                                      : 15
  7-bit adder                                           : 4
  8-bit adder                                           : 5
-# Registers                                            : 320
- 1-bit register                                        : 229
+# Registers                                            : 335
+ 1-bit register                                        : 243
  10-bit register                                       : 2
  12-bit register                                       : 64
  192-bit register                                      : 4
@@ -784,9 +799,7 @@ Macro Statistics
  4-bit register                                        : 3
  5-bit register                                        : 1
  7-bit register                                        : 5
- 8-bit register                                        : 8
-# Comparators                                          : 1
- 32-bit comparator lessequal                           : 1
+ 8-bit register                                        : 9
 # Multiplexers                                         : 52
  1-bit 2-to-1 multiplexer                              : 5
  1-bit 8-to-1 multiplexer                              : 1
@@ -815,7 +828,7 @@ The following registers are absorbed into counter <loop>: 1 register on signal <
 The following registers are absorbed into counter <counter>: 1 register on signal <counter>.
 The following registers are absorbed into counter <addr2>: 1 register on signal <addr2>.
 The following registers are absorbed into counter <addr1>: 1 register on signal <addr1>.
-	Multiplier <Mmult_n1077> in block <SFTransform_4> and adder/subtractor <Madd_GND_11_o_GND_11_o_add_17_OUT> in block <SFTransform_4> are combined into a MAC<Maddsub_n1077>.
+	Multiplier <Mmult_n1341> in block <SFTransform_4> and adder/subtractor <Madd_addr1[3]_addr1[3]_add_17_OUT> in block <SFTransform_4> are combined into a MAC<Maddsub_n1341>.
 	The following registers are also absorbed by the MAC: <result> in block <SFTransform_4>.
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_Sine> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
     -----------------------------------------------------------------------
@@ -824,14 +837,14 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_Sine> will be implemented on LUTs ei
     | Port A                                                              |
     |     aspect ratio   | 256-word x 6-bit                    |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <n0814>         |          |
+    |     addrA          | connected to signal <addr2[7]_PWR_5_o_and_243_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 256-word x 6-bit                    |          |
     |     weB            | connected to signal <GND>           | high     |
-    |     addrB          | connected to signal <n0807>         |          |
+    |     addrB          | connected to signal <addr2[7]_PWR_5_o_and_233_OUT> |          |
     |     diB            | connected to signal <GND>           |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
@@ -842,13 +855,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW> will be implemented on LUTs 
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <n1081>         |          |
+    |     addrA          | connected to signal <n1345[4:0]>    |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_87_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_88_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW1> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -858,13 +871,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW1> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_105_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_108_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_123_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_128_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW2> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -874,13 +887,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW2> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_141_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_148_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_159_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_168_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW3> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -890,13 +903,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW3> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_177_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_188_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_196_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_208_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW4> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -906,13 +919,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW4> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_214_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_228_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_232_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_248_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW5> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -922,13 +935,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW5> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_250_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_268_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_268_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_288_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW6> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -938,13 +951,13 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW6> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_286_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_308_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
     -----------------------------------------------------------------------
     | Port B                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
-    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_304_OUT> |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_328_OUT> |          |
     |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW7> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
@@ -954,9 +967,14 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_GaborW7> will be implemented on LUTs
     | Port A                                                              |
     |     aspect ratio   | 16-word x 5-bit                     |          |
     |     weA            | connected to signal <GND>           | high     |
-    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_322_OUT> |          |
+    |     addrA          | connected to signal <GND_11_o_GND_11_o_sub_348_OUT> |          |
     |     diA            | connected to signal <GND>           |          |
     |     doA            | connected to internal node          |          |
+    -----------------------------------------------------------------------
+    | Port B                                                              |
+    |     aspect ratio   | 16-word x 5-bit                     |          |
+    |     addrB          | connected to signal <GND_11_o_GND_11_o_sub_368_OUT> |          |
+    |     doB            | connected to internal node          |          |
     -----------------------------------------------------------------------
 Unit <SFTransform_4> synthesized (advanced).
 
@@ -1022,22 +1040,6 @@ Unit <spi_slave_8> synthesized (advanced).
 Synthesizing (advanced) Unit <timing_1>.
 The following registers are absorbed into counter <counter>: 1 register on signal <counter>.
 Unit <timing_1> synthesized (advanced).
-WARNING:Xst:2677 - Node <sumS_15_0> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_12> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_24> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_36> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_48> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_60> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_72> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_84> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_96> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_108> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_120> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_132> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_144> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_156> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_168> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:2677 - Node <sumS_15_180> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumC_15_0> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumC_15_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumC_15_24> of sequential type is unconnected in block <SFTransform_4>.
@@ -1054,6 +1056,22 @@ WARNING:Xst:2677 - Node <sumC_15_144> of sequential type is unconnected in block
 WARNING:Xst:2677 - Node <sumC_15_156> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumC_15_168> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumC_15_180> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_0> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_12> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_24> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_36> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_48> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_60> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_72> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_84> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_96> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_108> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_120> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_132> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_144> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_156> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_168> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumS_15_180> of sequential type is unconnected in block <SFTransform_4>.
 
 =========================================================================
 Advanced HDL Synthesis Report
@@ -1061,22 +1079,20 @@ Advanced HDL Synthesis Report
 Macro Statistics
 # RAMs                                                 : 42
  128x12-bit dual-port block RAM                        : 32
- 16x5-bit dual-port distributed Read Only RAM          : 7
- 16x5-bit single-port distributed Read Only RAM        : 1
+ 16x5-bit dual-port distributed Read Only RAM          : 8
  256x6-bit dual-port distributed Read Only RAM         : 1
  256x8-bit single-port distributed Read Only RAM       : 1
 # MACs                                                 : 1
  12x12-to-24-bit MAC                                   : 1
-# Multipliers                                          : 48
+# Multipliers                                          : 50
  12x12-bit multiplier                                  : 1
- 13x6-bit multiplier                                   : 30
- 8x5-bit multiplier                                    : 15
- 8x7-bit multiplier                                    : 2
-# Adders/Subtractors                                   : 50
- 12-bit adder                                          : 30
+ 13x6-bit multiplier                                   : 32
+ 8x5-bit multiplier                                    : 16
+ 8x7-bit multiplier                                    : 1
+# Adders/Subtractors                                   : 53
+ 12-bit adder                                          : 32
  4-bit adder                                           : 1
- 4-bit subtractor                                      : 14
- 5-bit subtractor                                      : 1
+ 4-bit subtractor                                      : 16
  7-bit adder                                           : 1
  8-bit adder                                           : 3
 # Counters                                             : 11
@@ -1086,10 +1102,8 @@ Macro Statistics
  5-bit up counter                                      : 1
  7-bit up counter                                      : 3
  8-bit up counter                                      : 2
-# Registers                                            : 1045
- Flip-Flops                                            : 1045
-# Comparators                                          : 1
- 32-bit comparator lessequal                           : 1
+# Registers                                            : 1067
+ Flip-Flops                                            : 1067
 # Multiplexers                                         : 48
  1-bit 2-to-1 multiplexer                              : 4
  1-bit 8-to-1 multiplexer                              : 1
@@ -1154,6 +1168,7 @@ Optimizing FSM <transform/FSM_1> on signal <state[1:3]> with user encoding.
  011   | 011
  100   | 100
  101   | 101
+ 110   | 110
 -------------------
 WARNING:Xst:1710 - FF/Latch <tx_q> (without init value) has a constant value of 1 in block <serial_tx_10>. This FF/Latch will be trimmed during the optimization process.
 WARNING:Xst:2677 - Node <ctr_q_0> of sequential type is unconnected in block <serial_tx_10>.
@@ -1163,7 +1178,8 @@ WARNING:Xst:2677 - Node <ctr_q_3> of sequential type is unconnected in block <se
 WARNING:Xst:2677 - Node <ctr_q_4> of sequential type is unconnected in block <serial_tx_10>.
 WARNING:Xst:2677 - Node <ctr_q_5> of sequential type is unconnected in block <serial_tx_10>.
 WARNING:Xst:2677 - Node <ctr_q_6> of sequential type is unconnected in block <serial_tx_10>.
-WARNING:Xst:2677 - Node <sumSS<8>_12> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumSS<0>_12> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumSS<1>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumSS<9>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumSS<10>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumSS<11>_12> of sequential type is unconnected in block <SFTransform_4>.
@@ -1171,6 +1187,7 @@ WARNING:Xst:2677 - Node <sumSS<12>_12> of sequential type is unconnected in bloc
 WARNING:Xst:2677 - Node <sumSS<13>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumSS<14>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumSS<15>_12> of sequential type is unconnected in block <SFTransform_4>.
+WARNING:Xst:2677 - Node <sumCC<0>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumCC<8>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumCC<9>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumCC<10>_12> of sequential type is unconnected in block <SFTransform_4>.
@@ -1179,9 +1196,18 @@ WARNING:Xst:2677 - Node <sumCC<12>_12> of sequential type is unconnected in bloc
 WARNING:Xst:2677 - Node <sumCC<13>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumCC<14>_12> of sequential type is unconnected in block <SFTransform_4>.
 WARNING:Xst:2677 - Node <sumCC<15>_12> of sequential type is unconnected in block <SFTransform_4>.
-WARNING:Xst:1710 - FF/Latch <signal_q_7> (without init value) has a constant value of 0 in block <Signal_ROM_2>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1293 - FF/Latch <signal_q_7> has a constant value of 0 in block <Signal_ROM_2>. This FF/Latch will be trimmed during the optimization process.
 WARNING:Xst:2677 - Node <avr_interface/sample_q_9> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_8> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_7> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_6> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_5> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_4> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_3> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_2> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/sample_q_1> of sequential type is unconnected in block <mojo_top_0>.
 WARNING:Xst:2677 - Node <avr_interface/sample_q_0> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/byte_ct_q> of sequential type is unconnected in block <mojo_top_0>.
 WARNING:Xst:2677 - Node <avr_interface/sample_channel_q_3> of sequential type is unconnected in block <mojo_top_0>.
 WARNING:Xst:2677 - Node <avr_interface/sample_channel_q_2> of sequential type is unconnected in block <mojo_top_0>.
 WARNING:Xst:2677 - Node <avr_interface/sample_channel_q_1> of sequential type is unconnected in block <mojo_top_0>.
@@ -1199,50 +1225,60 @@ Optimizing unit <spi_slave_8> ...
 Optimizing unit <serial_rx_9> ...
 
 Optimizing unit <SFTransform_4> ...
-WARNING:Xst:1710 - FF/Latch <i_dataSW_15_11> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_23> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_35> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_47> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_59> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_71> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_83> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_11> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_23> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_35> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_47> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_59> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_71> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_83> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <i_dataCW_15_191> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_179> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_167> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_155> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_143> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_131> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_119> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_107> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_95> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_191> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_179> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_167> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_155> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_143> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_131> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_119> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_107> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_95> (without init value) has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1293 - FF/Latch <i_dataCW_15_191> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_179> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_167> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_155> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_143> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_131> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_119> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_107> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_95> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_83> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_71> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_59> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_47> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_35> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_23> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataCW_15_11> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_191> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_179> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_167> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_155> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_143> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_131> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_119> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_107> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_95> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_83> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_71> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_59> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_47> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_35> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_23> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <i_dataSW_15_11> has a constant value of 0 in block <SFTransform_4>. This FF/Latch will be trimmed during the optimization process.
 
 Optimizing unit <Signal_ROM_2> ...
+WARNING:Xst:1293 - FF/Latch <transform/data_7> has a constant value of 0 in block <mojo_top_0>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_7> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_6> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_5> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_4> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_3> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_2> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_1> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/dout_q_0> of sequential type is unconnected in block <mojo_top_0>.
+WARNING:Xst:2677 - Node <avr_interface/spi_slave/done_q> of sequential type is unconnected in block <mojo_top_0>.
 
 Mapping all equations...
 Building and optimizing final netlist ...
-Found area constraint ratio of 100 (+ 0) on block mojo_top_0, actual ratio is 83.
+Found area constraint ratio of 100 (+ 0) on block mojo_top_0, actual ratio is 89.
 FlipFlop transform/loop_0 has been replicated 2 time(s)
-FlipFlop transform/loop_1 has been replicated 3 time(s)
+FlipFlop transform/loop_1 has been replicated 1 time(s)
 FlipFlop transform/loop_2 has been replicated 2 time(s)
 FlipFlop transform/loop_3 has been replicated 2 time(s)
-FlipFlop transform/loop_4 has been replicated 1 time(s)
-FlipFlop transform/loop_5 has been replicated 2 time(s)
+FlipFlop transform/loop_4 has been replicated 2 time(s)
+FlipFlop transform/loop_5 has been replicated 1 time(s)
 
 Final Macro Processing ...
 
@@ -1250,8 +1286,8 @@ Final Macro Processing ...
 Final Register Report
 
 Macro Statistics
-# Registers                                            : 938
- Flip-Flops                                            : 938
+# Registers                                            : 937
+ Flip-Flops                                            : 937
 
 =========================================================================
 
@@ -1276,9 +1312,9 @@ Clock Information:
 Clock Signal                       | Clock buffer(FF name)        | Load  |
 -----------------------------------+------------------------------+-------+
 txBlock/busy_q                     | BUFG                         | 74    |
-clk                                | BUFGP                        | 74    |
-one/clk_out_q                      | BUFG                         | 869   |
-transform/new_data                 | NONE(transform/Mram_GaborW65)| 35    |
+clk                                | BUFGP                        | 56    |
+one/clk_out_q                      | BUFG                         | 886   |
+transform/new_data                 | NONE(transform/Mram_GaborW64)| 40    |
 -----------------------------------+------------------------------+-------+
 INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
 
@@ -1290,9 +1326,9 @@ Timing Summary:
 ---------------
 Speed Grade: -2
 
-   Minimum period: 14.953ns (Maximum Frequency: 66.878MHz)
+   Minimum period: 15.152ns (Maximum Frequency: 65.996MHz)
    Minimum input arrival time before clock: 4.940ns
-   Maximum output required time after clock: 5.814ns
-   Maximum combinational path delay: 6.045ns
+   Maximum output required time after clock: 5.332ns
+   Maximum combinational path delay: 6.005ns
 
 =========================================================================

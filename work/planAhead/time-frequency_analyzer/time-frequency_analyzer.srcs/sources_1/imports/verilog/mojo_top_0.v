@@ -38,6 +38,7 @@ reg [7:0] a = 8'b11101011;
 reg [7:0] b = 8'b11101011;
 wire [15:0] c;
 assign c = a*b;*/
+//assign led = sample[9:2];
 assign led = Signal_out;
 
 //////////////////////////////
@@ -74,7 +75,7 @@ end
 */
 
 wire [23:0] checkSums;
-assign data = checkSums[23:16];
+assign data = checkSums[22:15];
 serial_TX_3  #(250) txBlock (
          .clk(clk),
          .rst(rst),
@@ -88,7 +89,7 @@ serial_TX_3  #(250) txBlock (
 SFTransform_4 transform (
     .clk(Q),
     .busy(busy),
-    .signal_read(sample[8:1]),
+    .signal_read(Signal_out),
     .result(checkSums)
   );
 
